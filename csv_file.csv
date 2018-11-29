@@ -1,0 +1,569 @@
+Date,Account,Transaction,Amount,Category,Notes
+01-Feb-18,Account 4,Transaction 10,206,Category 10,
+14-Oct-18,Account 4,Transaction 2,95,Category 5,
+01-Oct-18,Account 3,Transaction 13,-469,Category 7,
+15-Oct-18,Account 1,Transaction 12,-299,Category 7,
+21-Jul-18,Account 3,Transaction 1,-460,Category 9,
+24-Jan-17,Account 4,Transaction 17,203,Category 7,Random notes
+26-May-18,Account 4,Transaction 9,-74,Category 10,
+12-Aug-18,Account 3,Transaction 3,-243,Category 7,
+03-Feb-18,Account 3,Transaction 2,80,Category 5,
+11-Sep-18,Account 4,Transaction 19,-130,Category 7,
+22-Sep-18,Account 1,Transaction 15,60,Category 9,Random notes
+19-Sep-18,Account 1,Transaction 18,-368,Category 2,
+02-Apr-18,Account 2,Transaction 14,90,Category 5,Random notes
+30-Nov-18,Account 4,Transaction 18,399,Category 10,Random notes
+20-Jan-18,Account 4,Transaction 17,358,Category 8,Random notes
+27-May-18,Account 4,Transaction 12,-178,Category 6,
+28-Dec-18,Account 1,Transaction 15,159,Category 6,
+22-Jun-18,Account 1,Transaction 20,-500,Category 8,
+08-Aug-18,Account 1,Transaction 13,-267,Category 6,
+08-Jul-18,Account 4,Transaction 1,252,Category 4,
+18-Oct-18,Account 1,Transaction 2,434,Category 10,
+10-Aug-18,Account 3,Transaction 14,316,Category 6,Random notes
+19-Apr-18,Account 2,Transaction 2,220,Category 4,
+11-Jul-18,Account 2,Transaction 6,-391,Category 8,Random notes
+21-Oct-18,Account 1,Transaction 19,-184,Category 10,
+10-May-18,Account 2,Transaction 18,-99,Category 2,
+22-Sep-18,Account 4,Transaction 20,-343,Category 5,
+27-Jun-18,Account 4,Transaction 18,136,Category 2,Random notes
+04-Dec-18,Account 4,Transaction 12,-216,Category 8,
+13-Mar-18,Account 1,Transaction 11,493,Category 3,Random notes
+28-Jul-18,Account 4,Transaction 2,99,Category 10,Random notes
+09-May-18,Account 4,Transaction 2,-305,Category 2,Random notes
+28-Mar-18,Account 3,Transaction 12,425,Category 2,
+13-Dec-18,Account 2,Transaction 16,-81,Category 3,
+27-Dec-18,Account 2,Transaction 16,75,Category 7,
+12-Mar-18,Account 4,Transaction 7,-270,Category 4,
+01-Mar-18,Account 1,Transaction 4,-343,Category 2,
+27-Feb-18,Account 2,Transaction 13,300,Category 1,
+13-Feb-18,Account 2,Transaction 11,345,Category 10,
+21-Jun-18,Account 4,Transaction 14,-352,Category 5,
+10-Jan-18,Account 3,Transaction 7,355,Category 5,
+30-Jun-18,Account 1,Transaction 16,-485,Category 7,
+09-May-18,Account 2,Transaction 17,58,Category 9,
+15-Aug-18,Account 2,Transaction 14,290,Category 5,
+13-Apr-18,Account 1,Transaction 4,259,Category 6,
+22-Jan-18,Account 2,Transaction 12,45,Category 4,
+01-Mar-18,Account 2,Transaction 8,-461,Category 10,
+15-Sep-17,Account 3,Transaction 18,375,Category 4,Random notes
+08-Sep-18,Account 3,Transaction 20,156,Category 3,
+15-Aug-17,Account 2,Transaction 5,435,Category 4,
+09-Mar-18,Account 3,Transaction 10,8,Category 10,
+09-Jan-18,Account 1,Transaction 18,245,Category 6,
+19-Dec-18,Account 1,Transaction 16,-240,Category 4,Random notes
+22-Aug-18,Account 2,Transaction 14,27,Category 7,
+24-May-18,Account 3,Transaction 2,-335,Category 4,
+12-May-17,Account 3,Transaction 3,-222,Category 4,
+13-Jan-18,Account 3,Transaction 11,143,Category 10,Random notes
+21-May-18,Account 3,Transaction 3,-372,Category 9,Random notes
+05-Jun-18,Account 3,Transaction 2,-493,Category 4,
+31-Jan-18,Account 4,Transaction 14,81,Category 3,
+10-Jan-18,Account 3,Transaction 7,329,Category 5,
+30-Jun-18,Account 1,Transaction 11,443,Category 9,
+28-Oct-18,Account 2,Transaction 15,99,Category 8,
+07-Mar-18,Account 1,Transaction 4,443,Category 9,
+06-Mar-18,Account 3,Transaction 19,-105,Category 5,Random notes
+24-Sep-18,Account 2,Transaction 8,-65,Category 4,
+31-Aug-18,Account 2,Transaction 9,335,Category 9,
+24-Jan-18,Account 2,Transaction 10,66,Category 3,Random notes
+25-Apr-18,Account 1,Transaction 3,16,Category 5,
+08-Jan-18,Account 3,Transaction 3,299,Category 4,
+14-Dec-18,Account 1,Transaction 14,-105,Category 3,
+02-Oct-18,Account 1,Transaction 14,295,Category 1,
+07-Mar-18,Account 3,Transaction 12,381,Category 4,
+23-Oct-18,Account 3,Transaction 6,-189,Category 8,Random notes
+07-Aug-18,Account 2,Transaction 2,-322,Category 6,
+14-Jul-18,Account 1,Transaction 18,394,Category 9,Random notes
+04-Apr-18,Account 1,Transaction 14,-123,Category 10,
+15-Jul-17,Account 1,Transaction 8,-293,Category 2,Random notes
+21-Jan-18,Account 1,Transaction 14,17,Category 3,
+11-Jul-17,Account 2,Transaction 2,448,Category 4,
+29-Mar-18,Account 2,Transaction 2,-283,Category 2,
+06-Jan-18,Account 4,Transaction 1,111,Category 8,
+17-Dec-18,Account 2,Transaction 10,-139,Category 4,Random notes
+18-Oct-18,Account 4,Transaction 9,-399,Category 3,Random notes
+26-Dec-18,Account 1,Transaction 11,-68,Category 3,
+12-Mar-18,Account 1,Transaction 17,222,Category 2,
+11-Jan-18,Account 2,Transaction 6,441,Category 2,
+03-Jul-18,Account 1,Transaction 13,-304,Category 4,Random notes
+21-Sep-18,Account 2,Transaction 16,-198,Category 4,
+07-Dec-18,Account 4,Transaction 10,198,Category 7,
+07-Jul-18,Account 2,Transaction 17,125,Category 4,Random notes
+14-Sep-18,Account 1,Transaction 18,309,Category 8,Random notes
+13-Aug-18,Account 3,Transaction 20,-174,Category 2,
+17-Feb-18,Account 1,Transaction 8,105,Category 5,
+27-Oct-18,Account 3,Transaction 3,318,Category 1,
+27-Jun-18,Account 4,Transaction 5,351,Category 8,
+01-Dec-18,Account 1,Transaction 17,285,Category 2,
+23-Nov-18,Account 3,Transaction 12,-96,Category 4,
+05-Jan-18,Account 4,Transaction 20,271,Category 3,Random notes
+03-Jun-17,Account 1,Transaction 11,-354,Category 2,
+25-Mar-18,Account 3,Transaction 7,311,Category 10,
+24-Jan-18,Account 2,Transaction 13,-335,Category 4,
+02-Jun-18,Account 2,Transaction 5,-391,Category 5,Random notes
+18-Mar-18,Account 2,Transaction 6,389,Category 8,Random notes
+30-Jun-18,Account 2,Transaction 16,-357,Category 2,
+13-Jun-18,Account 2,Transaction 2,103,Category 6,
+11-Aug-18,Account 1,Transaction 5,218,Category 1,
+20-Jul-18,Account 3,Transaction 9,-76,Category 2,
+25-Aug-18,Account 1,Transaction 13,-94,Category 5,
+11-May-18,Account 4,Transaction 4,77,Category 10,
+04-Jul-18,Account 4,Transaction 17,-116,Category 3,
+14-Dec-18,Account 3,Transaction 3,114,Category 2,
+27-Jan-18,Account 3,Transaction 13,336,Category 7,Random notes
+01-Oct-18,Account 4,Transaction 3,-81,Category 8,
+20-Oct-18,Account 4,Transaction 5,-245,Category 9,Random notes
+14-Jul-18,Account 2,Transaction 11,398,Category 9,Random notes
+17-Sep-18,Account 4,Transaction 1,353,Category 6,
+13-Feb-18,Account 2,Transaction 7,297,Category 3,
+29-May-18,Account 3,Transaction 6,184,Category 8,
+23-Dec-18,Account 3,Transaction 9,-215,Category 9,
+01-Aug-18,Account 1,Transaction 20,272,Category 5,Random notes
+26-Sep-18,Account 4,Transaction 11,-154,Category 6,
+03-Mar-18,Account 1,Transaction 19,77,Category 4,
+21-Apr-18,Account 1,Transaction 14,192,Category 10,Random notes
+27-Apr-18,Account 2,Transaction 20,-273,Category 6,
+12-Dec-18,Account 4,Transaction 1,7,Category 3,
+16-Oct-18,Account 4,Transaction 10,155,Category 4,
+26-Mar-18,Account 1,Transaction 15,-67,Category 8,
+14-Oct-18,Account 3,Transaction 2,96,Category 2,
+30-Jan-18,Account 1,Transaction 3,287,Category 9,
+01-Sep-18,Account 3,Transaction 17,-135,Category 9,
+08-Jul-18,Account 4,Transaction 12,-263,Category 7,
+01-Oct-18,Account 3,Transaction 8,319,Category 9,Random notes
+06-Aug-18,Account 3,Transaction 3,-298,Category 10,
+03-Nov-18,Account 2,Transaction 18,-145,Category 2,Random notes
+01-Oct-18,Account 2,Transaction 18,299,Category 8,
+04-Sep-18,Account 2,Transaction 3,5,Category 10,Random notes
+17-Dec-18,Account 1,Transaction 16,286,Category 8,Random notes
+24-Jun-18,Account 4,Transaction 10,-12,Category 6,
+14-Oct-18,Account 3,Transaction 4,277,Category 4,Random notes
+30-Jun-17,Account 2,Transaction 11,-349,Category 2,Random notes
+09-Feb-18,Account 1,Transaction 11,323,Category 5,Random notes
+27-Mar-18,Account 2,Transaction 12,-79,Category 3,Random notes
+05-Jul-18,Account 4,Transaction 5,-378,Category 4,Random notes
+13-Dec-18,Account 4,Transaction 11,117,Category 6,
+01-Dec-18,Account 2,Transaction 8,484,Category 4,Random notes
+22-Jul-17,Account 3,Transaction 10,117,Category 6,
+22-Aug-18,Account 4,Transaction 2,294,Category 8,
+03-Aug-18,Account 3,Transaction 10,240,Category 6,Random notes
+25-Jun-18,Account 3,Transaction 1,90,Category 4,
+27-Jul-17,Account 3,Transaction 4,19,Category 3,
+12-Dec-18,Account 2,Transaction 15,-270,Category 10,Random notes
+22-Jul-18,Account 3,Transaction 19,-407,Category 10,
+20-Aug-18,Account 3,Transaction 19,-450,Category 7,
+07-Dec-18,Account 4,Transaction 2,-198,Category 1,
+23-Mar-18,Account 1,Transaction 5,-66,Category 1,
+15-Oct-18,Account 3,Transaction 18,-35,Category 4,
+26-Jan-18,Account 3,Transaction 7,421,Category 8,
+07-Aug-18,Account 1,Transaction 3,-251,Category 8,Random notes
+10-Dec-18,Account 4,Transaction 11,-372,Category 2,Random notes
+07-Jul-18,Account 3,Transaction 4,39,Category 6,
+09-Jan-18,Account 3,Transaction 7,-381,Category 6,
+13-Apr-18,Account 1,Transaction 20,-179,Category 4,Random notes
+07-Jun-18,Account 1,Transaction 10,-240,Category 1,
+24-Oct-18,Account 1,Transaction 14,174,Category 5,
+04-Feb-18,Account 3,Transaction 16,76,Category 2,
+01-Oct-18,Account 3,Transaction 11,442,Category 7,
+18-Jun-18,Account 2,Transaction 5,-447,Category 4,Random notes
+14-May-18,Account 3,Transaction 16,-113,Category 2,
+25-Jul-18,Account 1,Transaction 14,496,Category 5,
+12-Aug-18,Account 1,Transaction 10,-166,Category 7,Random notes
+23-Apr-18,Account 3,Transaction 2,408,Category 3,
+29-Jan-18,Account 4,Transaction 2,-146,Category 3,Random notes
+14-Aug-18,Account 2,Transaction 8,-64,Category 4,Random notes
+23-Feb-18,Account 2,Transaction 3,-491,Category 5,
+14-Mar-17,Account 4,Transaction 7,205,Category 6,Random notes
+21-Mar-18,Account 3,Transaction 9,-219,Category 10,
+26-Jun-18,Account 1,Transaction 3,-337,Category 7,Random notes
+07-Oct-18,Account 4,Transaction 5,-337,Category 6,Random notes
+04-Apr-18,Account 1,Transaction 12,-6,Category 9,
+12-Jul-18,Account 3,Transaction 15,-477,Category 2,
+12-Jan-18,Account 2,Transaction 14,47,Category 5,
+12-Apr-18,Account 1,Transaction 18,284,Category 7,
+17-Oct-18,Account 3,Transaction 3,-409,Category 5,
+10-Mar-17,Account 2,Transaction 12,176,Category 9,Random notes
+08-Jun-18,Account 2,Transaction 6,344,Category 2,Random notes
+17-Mar-18,Account 3,Transaction 9,-260,Category 5,
+23-Apr-18,Account 2,Transaction 14,345,Category 10,
+06-Aug-18,Account 3,Transaction 4,-326,Category 9,
+09-Jul-18,Account 1,Transaction 7,-168,Category 7,
+09-Sep-18,Account 2,Transaction 1,-481,Category 7,
+24-Jan-18,Account 1,Transaction 17,222,Category 6,
+16-Sep-18,Account 1,Transaction 9,-345,Category 6,
+05-Aug-18,Account 1,Transaction 7,146,Category 7,
+24-May-18,Account 3,Transaction 12,-487,Category 9,Random notes
+04-Mar-18,Account 1,Transaction 17,379,Category 2,
+26-Jan-17,Account 3,Transaction 15,-106,Category 1,
+10-Jul-18,Account 1,Transaction 11,-389,Category 8,
+12-Aug-18,Account 4,Transaction 13,-17,Category 4,Random notes
+14-May-18,Account 4,Transaction 18,-415,Category 6,
+21-Jan-18,Account 2,Transaction 16,-298,Category 3,
+19-Apr-18,Account 1,Transaction 6,55,Category 4,Random notes
+13-Dec-18,Account 2,Transaction 20,-111,Category 9,
+13-Jun-18,Account 2,Transaction 20,233,Category 5,
+12-Feb-18,Account 4,Transaction 6,31,Category 6,Random notes
+19-Dec-18,Account 2,Transaction 3,-170,Category 7,
+29-Sep-18,Account 2,Transaction 6,-197,Category 8,
+13-Mar-18,Account 4,Transaction 17,124,Category 1,
+21-Sep-18,Account 4,Transaction 9,-93,Category 1,
+02-Oct-18,Account 1,Transaction 20,-194,Category 5,Random notes
+27-Aug-18,Account 4,Transaction 1,-22,Category 6,Random notes
+28-Oct-18,Account 4,Transaction 20,-45,Category 4,
+23-Sep-18,Account 4,Transaction 5,7,Category 1,
+30-Dec-17,Account 2,Transaction 5,-371,Category 9,Random notes
+17-Apr-18,Account 1,Transaction 1,-487,Category 10,Random notes
+28-May-18,Account 2,Transaction 15,168,Category 3,
+13-Apr-18,Account 2,Transaction 10,-144,Category 6,
+17-Oct-18,Account 2,Transaction 18,-115,Category 6,
+27-Jul-18,Account 1,Transaction 5,-278,Category 8,Random notes
+04-Dec-18,Account 3,Transaction 18,-145,Category 5,
+04-Feb-18,Account 2,Transaction 6,152,Category 3,Random notes
+05-Oct-18,Account 4,Transaction 2,-333,Category 5,
+09-Apr-18,Account 3,Transaction 4,-40,Category 3,
+03-Jan-18,Account 4,Transaction 14,-472,Category 6,
+13-Feb-18,Account 2,Transaction 2,185,Category 3,Random notes
+29-Nov-18,Account 2,Transaction 4,-302,Category 5,Random notes
+05-Feb-18,Account 3,Transaction 5,190,Category 1,
+16-Feb-18,Account 2,Transaction 15,-170,Category 9,
+03-Jul-18,Account 1,Transaction 3,165,Category 1,
+10-Dec-18,Account 1,Transaction 2,324,Category 4,Random notes
+03-Jan-18,Account 3,Transaction 7,496,Category 4,Random notes
+26-Nov-18,Account 3,Transaction 16,-284,Category 1,Random notes
+10-Apr-18,Account 1,Transaction 8,-460,Category 4,Random notes
+22-Aug-18,Account 3,Transaction 19,-337,Category 8,
+17-Aug-18,Account 1,Transaction 11,-406,Category 5,
+07-Nov-18,Account 2,Transaction 4,268,Category 7,Random notes
+23-Dec-18,Account 1,Transaction 8,66,Category 9,
+04-Sep-18,Account 1,Transaction 19,-312,Category 8,
+25-May-18,Account 1,Transaction 8,149,Category 5,Random notes
+08-Feb-18,Account 4,Transaction 12,-24,Category 3,
+23-Jun-18,Account 4,Transaction 7,431,Category 3,Random notes
+22-Mar-18,Account 4,Transaction 14,258,Category 4,
+02-Feb-18,Account 3,Transaction 17,335,Category 5,Random notes
+19-Nov-18,Account 3,Transaction 18,342,Category 1,
+12-Mar-18,Account 1,Transaction 14,-237,Category 9,
+17-Apr-18,Account 1,Transaction 6,-23,Category 1,
+29-May-18,Account 3,Transaction 20,-326,Category 5,
+14-Dec-18,Account 4,Transaction 8,-385,Category 6,
+14-Jun-18,Account 3,Transaction 13,212,Category 8,
+18-Aug-18,Account 3,Transaction 6,275,Category 9,Random notes
+12-Jun-18,Account 1,Transaction 12,-388,Category 6,
+17-Oct-18,Account 3,Transaction 8,-209,Category 4,
+19-Mar-18,Account 1,Transaction 14,78,Category 4,
+28-Oct-18,Account 1,Transaction 10,268,Category 4,
+03-May-18,Account 1,Transaction 15,-315,Category 10,
+28-Jun-18,Account 2,Transaction 11,316,Category 5,Random notes
+14-Nov-18,Account 3,Transaction 10,-305,Category 3,Random notes
+03-Dec-18,Account 3,Transaction 12,-176,Category 10,
+23-Jun-18,Account 1,Transaction 17,420,Category 2,
+10-Sep-18,Account 3,Transaction 7,-492,Category 5,Random notes
+01-May-18,Account 4,Transaction 12,361,Category 7,
+14-Apr-18,Account 2,Transaction 4,-295,Category 10,Random notes
+17-Jun-18,Account 1,Transaction 6,263,Category 1,Random notes
+15-May-18,Account 2,Transaction 5,400,Category 1,
+09-Jan-18,Account 4,Transaction 10,104,Category 2,
+28-Aug-18,Account 4,Transaction 11,-160,Category 3,
+19-Aug-18,Account 3,Transaction 19,-44,Category 8,
+10-Jan-18,Account 3,Transaction 15,-473,Category 4,
+03-Nov-18,Account 4,Transaction 15,49,Category 1,Random notes
+04-Sep-18,Account 2,Transaction 3,-436,Category 5,Random notes
+28-May-18,Account 2,Transaction 20,-249,Category 3,Random notes
+26-May-18,Account 3,Transaction 1,244,Category 7,
+23-Jun-18,Account 2,Transaction 17,389,Category 9,
+17-Mar-18,Account 4,Transaction 8,115,Category 1,
+07-Nov-18,Account 1,Transaction 9,-227,Category 4,Random notes
+21-Apr-18,Account 1,Transaction 15,236,Category 4,
+16-Aug-18,Account 3,Transaction 15,-211,Category 8,
+24-Aug-18,Account 4,Transaction 1,-182,Category 9,
+15-Jul-18,Account 4,Transaction 4,-359,Category 9,
+19-Jun-18,Account 4,Transaction 4,307,Category 1,Random notes
+31-Oct-18,Account 4,Transaction 13,118,Category 8,
+24-Oct-18,Account 3,Transaction 10,122,Category 1,Random notes
+25-Mar-18,Account 1,Transaction 2,190,Category 3,
+06-Jun-18,Account 1,Transaction 17,-106,Category 6,Random notes
+08-May-18,Account 2,Transaction 14,-24,Category 1,Random notes
+25-Dec-18,Account 4,Transaction 6,109,Category 1,Random notes
+26-Jan-18,Account 4,Transaction 16,-279,Category 7,Random notes
+08-Jun-18,Account 3,Transaction 1,480,Category 6,Random notes
+19-Mar-18,Account 4,Transaction 12,447,Category 9,
+08-Dec-18,Account 1,Transaction 13,168,Category 8,Random notes
+01-Feb-17,Account 2,Transaction 12,-207,Category 8,
+21-Dec-17,Account 1,Transaction 19,-201,Category 3,
+16-Apr-18,Account 2,Transaction 6,-172,Category 1,Random notes
+03-May-17,Account 4,Transaction 1,261,Category 5,
+27-Dec-18,Account 3,Transaction 11,-66,Category 10,
+11-Aug-18,Account 2,Transaction 2,-292,Category 3,
+14-Sep-18,Account 4,Transaction 5,-106,Category 1,
+06-Jan-18,Account 2,Transaction 19,-384,Category 1,Random notes
+18-Mar-18,Account 3,Transaction 20,62,Category 10,Random notes
+25-Jun-18,Account 3,Transaction 12,-328,Category 5,
+12-Sep-18,Account 3,Transaction 13,370,Category 5,
+21-Apr-18,Account 2,Transaction 3,-274,Category 1,Random notes
+13-Apr-18,Account 3,Transaction 10,-404,Category 7,
+28-Jun-18,Account 3,Transaction 16,95,Category 3,Random notes
+21-Dec-17,Account 4,Transaction 1,-77,Category 4,
+16-Dec-18,Account 3,Transaction 18,228,Category 5,
+05-Jun-18,Account 4,Transaction 4,424,Category 5,
+02-May-18,Account 3,Transaction 16,95,Category 4,Random notes
+03-Nov-18,Account 1,Transaction 14,-86,Category 6,
+26-May-18,Account 3,Transaction 6,-368,Category 1,Random notes
+29-Mar-18,Account 3,Transaction 11,-70,Category 10,
+23-Jun-18,Account 4,Transaction 6,-51,Category 7,
+23-Dec-18,Account 4,Transaction 3,-444,Category 7,
+29-Jul-18,Account 4,Transaction 16,-134,Category 3,
+24-Mar-17,Account 4,Transaction 16,291,Category 2,Random notes
+11-Dec-18,Account 2,Transaction 18,89,Category 9,Random notes
+06-Oct-18,Account 3,Transaction 20,-65,Category 6,
+13-May-18,Account 1,Transaction 15,281,Category 10,
+20-Jul-18,Account 4,Transaction 1,55,Category 5,
+14-Jul-18,Account 1,Transaction 3,476,Category 2,Random notes
+15-Jan-18,Account 4,Transaction 7,-482,Category 5,
+03-Jul-18,Account 2,Transaction 18,102,Category 4,
+10-May-18,Account 2,Transaction 3,-124,Category 6,
+19-Dec-17,Account 4,Transaction 5,160,Category 5,Random notes
+06-Aug-18,Account 3,Transaction 9,416,Category 5,
+24-Oct-18,Account 1,Transaction 18,295,Category 6,
+09-Dec-18,Account 2,Transaction 13,-113,Category 7,
+03-May-18,Account 2,Transaction 1,73,Category 8,Random notes
+08-Nov-17,Account 2,Transaction 7,-361,Category 1,
+25-Mar-17,Account 2,Transaction 1,477,Category 4,Random notes
+14-Nov-18,Account 1,Transaction 9,-158,Category 4,
+04-Jul-18,Account 2,Transaction 6,400,Category 4,
+13-Jun-18,Account 2,Transaction 4,56,Category 1,
+21-Jul-17,Account 2,Transaction 7,-237,Category 10,
+01-May-18,Account 4,Transaction 2,-384,Category 9,Random notes
+27-Jun-18,Account 1,Transaction 6,439,Category 7,
+05-Jan-18,Account 1,Transaction 6,-480,Category 2,
+02-Aug-18,Account 2,Transaction 10,460,Category 1,
+16-Jun-18,Account 1,Transaction 16,84,Category 6,
+13-Jul-18,Account 2,Transaction 13,462,Category 3,
+13-Mar-18,Account 4,Transaction 1,-53,Category 4,
+10-Dec-18,Account 1,Transaction 17,59,Category 5,Random notes
+03-Mar-18,Account 4,Transaction 7,-319,Category 7,
+29-Aug-18,Account 4,Transaction 18,-54,Category 8,
+15-Feb-17,Account 4,Transaction 6,-322,Category 9,
+09-Oct-18,Account 2,Transaction 18,339,Category 3,Random notes
+29-Aug-18,Account 4,Transaction 2,193,Category 4,Random notes
+07-May-18,Account 3,Transaction 11,-493,Category 9,Random notes
+23-Feb-18,Account 2,Transaction 15,-429,Category 4,
+10-Oct-18,Account 3,Transaction 20,206,Category 7,Random notes
+04-Apr-17,Account 2,Transaction 1,420,Category 3,
+19-Jun-18,Account 4,Transaction 10,-10,Category 3,
+23-May-18,Account 1,Transaction 19,-320,Category 2,Random notes
+06-Mar-18,Account 2,Transaction 12,-398,Category 4,Random notes
+24-Dec-18,Account 1,Transaction 5,404,Category 2,
+19-Jan-18,Account 2,Transaction 18,455,Category 6,
+07-Jun-18,Account 3,Transaction 20,245,Category 10,Random notes
+08-Aug-18,Account 4,Transaction 5,-50,Category 9,Random notes
+21-Dec-18,Account 3,Transaction 1,-168,Category 7,
+10-Aug-18,Account 1,Transaction 10,274,Category 5,
+02-Aug-18,Account 4,Transaction 17,-12,Category 9,Random notes
+11-Aug-18,Account 4,Transaction 9,-446,Category 3,
+21-Jul-18,Account 1,Transaction 12,82,Category 7,Random notes
+20-Jun-17,Account 2,Transaction 12,92,Category 2,Random notes
+06-Aug-18,Account 1,Transaction 9,366,Category 2,Random notes
+25-Oct-18,Account 2,Transaction 10,-73,Category 6,
+14-Apr-18,Account 1,Transaction 1,111,Category 8,
+28-Mar-18,Account 2,Transaction 16,224,Category 1,Random notes
+15-Jan-18,Account 4,Transaction 4,-489,Category 6,
+11-Feb-18,Account 4,Transaction 16,185,Category 7,
+25-Jun-18,Account 1,Transaction 7,43,Category 8,Random notes
+30-May-18,Account 4,Transaction 11,-84,Category 6,
+06-Oct-18,Account 3,Transaction 13,83,Category 6,
+21-Mar-18,Account 2,Transaction 3,-439,Category 10,
+30-Jun-17,Account 2,Transaction 5,-113,Category 5,
+07-Aug-18,Account 3,Transaction 15,13,Category 8,Random notes
+18-Mar-18,Account 1,Transaction 13,109,Category 1,Random notes
+25-Sep-18,Account 2,Transaction 19,-419,Category 5,Random notes
+10-Nov-18,Account 2,Transaction 16,255,Category 10,
+31-Aug-18,Account 2,Transaction 11,-241,Category 5,Random notes
+29-May-18,Account 1,Transaction 16,245,Category 2,
+22-Apr-18,Account 2,Transaction 4,-387,Category 1,
+26-Apr-18,Account 2,Transaction 6,348,Category 3,Random notes
+07-Jun-18,Account 4,Transaction 1,-128,Category 6,
+28-May-18,Account 2,Transaction 16,-487,Category 10,Random notes
+12-Mar-18,Account 3,Transaction 5,386,Category 9,
+21-Jul-17,Account 1,Transaction 5,-263,Category 5,Random notes
+01-Apr-18,Account 1,Transaction 4,-464,Category 1,
+27-Aug-18,Account 1,Transaction 19,-254,Category 2,
+26-Mar-18,Account 4,Transaction 18,488,Category 4,Random notes
+09-Oct-18,Account 4,Transaction 17,-333,Category 3,Random notes
+06-Jun-18,Account 3,Transaction 6,-323,Category 9,
+15-Oct-18,Account 3,Transaction 2,436,Category 2,
+01-Jul-18,Account 4,Transaction 12,70,Category 4,Random notes
+11-Jun-18,Account 3,Transaction 14,-313,Category 6,
+12-Jan-18,Account 4,Transaction 16,-288,Category 3,Random notes
+23-Mar-18,Account 4,Transaction 14,-373,Category 8,Random notes
+19-Sep-18,Account 3,Transaction 1,-269,Category 10,
+06-Jul-18,Account 3,Transaction 2,416,Category 10,Random notes
+27-Apr-18,Account 4,Transaction 13,-7,Category 10,Random notes
+12-Dec-17,Account 3,Transaction 19,-179,Category 4,
+06-Aug-18,Account 2,Transaction 20,51,Category 4,
+04-Jan-17,Account 3,Transaction 17,156,Category 6,
+16-Oct-18,Account 4,Transaction 17,293,Category 4,
+19-Mar-18,Account 1,Transaction 12,-446,Category 7,
+14-Aug-18,Account 4,Transaction 18,337,Category 3,
+22-Dec-18,Account 1,Transaction 7,-121,Category 7,
+05-Feb-18,Account 2,Transaction 7,41,Category 9,Random notes
+13-Oct-18,Account 3,Transaction 6,-488,Category 5,
+30-Jun-18,Account 2,Transaction 3,-82,Category 10,Random notes
+14-Jun-18,Account 1,Transaction 19,-195,Category 7,
+07-Jul-17,Account 3,Transaction 1,447,Category 8,
+12-Jul-18,Account 2,Transaction 6,-475,Category 1,
+08-Jul-17,Account 2,Transaction 10,-233,Category 7,
+07-Sep-18,Account 1,Transaction 5,459,Category 9,Random notes
+07-Aug-18,Account 3,Transaction 17,308,Category 1,
+03-Mar-18,Account 1,Transaction 20,-216,Category 9,Random notes
+01-May-17,Account 2,Transaction 12,282,Category 1,Random notes
+06-Oct-18,Account 2,Transaction 10,-443,Category 4,Random notes
+11-Sep-17,Account 4,Transaction 20,81,Category 9,
+10-Sep-18,Account 4,Transaction 11,-67,Category 4,
+17-Jul-18,Account 4,Transaction 6,-171,Category 7,
+11-Mar-18,Account 1,Transaction 12,-414,Category 8,Random notes
+22-Aug-18,Account 2,Transaction 17,-271,Category 7,
+11-May-18,Account 1,Transaction 2,-486,Category 1,Random notes
+20-May-17,Account 1,Transaction 7,27,Category 3,
+10-Jun-18,Account 3,Transaction 14,192,Category 4,Random notes
+11-Jan-18,Account 3,Transaction 19,-50,Category 2,Random notes
+22-Jun-18,Account 2,Transaction 7,333,Category 3,Random notes
+11-Apr-18,Account 2,Transaction 3,-195,Category 6,
+12-Nov-18,Account 3,Transaction 5,-179,Category 5,
+22-May-17,Account 1,Transaction 13,-320,Category 6,
+11-Jan-18,Account 4,Transaction 16,-37,Category 10,
+26-May-18,Account 4,Transaction 5,-19,Category 7,
+13-Mar-18,Account 1,Transaction 17,171,Category 4,
+18-Sep-18,Account 1,Transaction 7,130,Category 3,
+11-Mar-18,Account 3,Transaction 2,-461,Category 8,
+25-Dec-18,Account 2,Transaction 9,476,Category 7,
+01-Jul-18,Account 2,Transaction 4,53,Category 4,
+21-Jun-18,Account 4,Transaction 19,212,Category 10,Random notes
+01-Jan-18,Account 4,Transaction 5,398,Category 6,Random notes
+02-Oct-18,Account 1,Transaction 10,268,Category 7,Random notes
+28-Aug-18,Account 3,Transaction 14,277,Category 1,Random notes
+23-Sep-18,Account 1,Transaction 10,-58,Category 7,
+13-Oct-18,Account 4,Transaction 8,-90,Category 9,Random notes
+11-Sep-18,Account 1,Transaction 9,-66,Category 5,
+06-Dec-18,Account 1,Transaction 14,5,Category 7,Random notes
+23-Sep-18,Account 2,Transaction 3,245,Category 10,
+18-Apr-18,Account 2,Transaction 19,63,Category 4,
+23-Oct-18,Account 1,Transaction 7,-133,Category 6,Random notes
+07-Apr-18,Account 1,Transaction 3,-177,Category 2,Random notes
+26-Jan-18,Account 4,Transaction 5,-332,Category 7,
+23-May-18,Account 2,Transaction 14,-67,Category 5,
+06-Mar-17,Account 1,Transaction 12,338,Category 7,Random notes
+12-Jun-17,Account 3,Transaction 8,437,Category 7,Random notes
+23-Jun-18,Account 4,Transaction 16,-313,Category 2,Random notes
+28-Apr-18,Account 4,Transaction 14,226,Category 10,
+03-Jul-18,Account 1,Transaction 20,153,Category 10,
+04-Mar-18,Account 1,Transaction 7,-476,Category 4,Random notes
+22-Mar-18,Account 2,Transaction 6,-385,Category 5,Random notes
+12-Aug-18,Account 2,Transaction 10,474,Category 1,
+04-Sep-18,Account 1,Transaction 11,-14,Category 6,Random notes
+23-Oct-18,Account 3,Transaction 12,-259,Category 5,Random notes
+31-Jan-18,Account 2,Transaction 17,-331,Category 8,
+18-Dec-18,Account 1,Transaction 20,284,Category 4,Random notes
+26-May-18,Account 1,Transaction 6,427,Category 7,
+14-Feb-18,Account 1,Transaction 3,303,Category 6,
+16-Aug-18,Account 4,Transaction 12,382,Category 8,
+26-Dec-18,Account 1,Transaction 15,307,Category 4,
+06-Oct-18,Account 1,Transaction 15,374,Category 4,
+22-Jul-18,Account 1,Transaction 20,-143,Category 9,
+02-Dec-18,Account 3,Transaction 13,8,Category 9,
+16-Sep-18,Account 4,Transaction 17,38,Category 7,Random notes
+31-Oct-18,Account 3,Transaction 7,182,Category 3,Random notes
+16-Aug-18,Account 1,Transaction 8,451,Category 1,Random notes
+19-Jun-17,Account 4,Transaction 11,458,Category 10,Random notes
+20-Jun-18,Account 3,Transaction 8,100,Category 3,
+16-Jun-18,Account 4,Transaction 8,404,Category 7,
+05-Mar-18,Account 3,Transaction 12,-209,Category 2,Random notes
+09-Jan-18,Account 2,Transaction 2,351,Category 6,
+17-Sep-18,Account 1,Transaction 16,-234,Category 2,
+11-Apr-18,Account 4,Transaction 11,43,Category 9,
+01-Oct-18,Account 1,Transaction 12,46,Category 5,
+08-May-18,Account 3,Transaction 10,-438,Category 7,
+07-Oct-18,Account 4,Transaction 20,-143,Category 3,
+01-Feb-17,Account 3,Transaction 18,-195,Category 4,
+09-Dec-18,Account 2,Transaction 18,220,Category 9,Random notes
+14-Mar-18,Account 2,Transaction 13,202,Category 2,
+04-Feb-18,Account 3,Transaction 1,305,Category 3,
+16-Oct-18,Account 4,Transaction 20,291,Category 6,
+11-Sep-18,Account 4,Transaction 15,338,Category 6,
+18-Oct-18,Account 2,Transaction 18,266,Category 8,Random notes
+07-Nov-17,Account 2,Transaction 4,-301,Category 7,
+22-Jun-18,Account 3,Transaction 13,-178,Category 2,
+03-Jan-18,Account 1,Transaction 12,487,Category 7,Random notes
+26-May-18,Account 4,Transaction 4,-3,Category 6,
+20-Dec-18,Account 2,Transaction 7,-220,Category 10,
+06-Sep-18,Account 2,Transaction 1,187,Category 4,
+02-Jul-17,Account 2,Transaction 2,478,Category 6,
+14-May-18,Account 4,Transaction 17,152,Category 9,
+20-Jan-18,Account 1,Transaction 17,69,Category 2,
+19-May-17,Account 3,Transaction 11,289,Category 9,
+19-Jun-18,Account 2,Transaction 17,-449,Category 6,
+03-May-18,Account 4,Transaction 2,259,Category 1,Random notes
+24-Jan-18,Account 1,Transaction 4,-288,Category 10,
+25-Oct-18,Account 1,Transaction 3,-126,Category 9,
+26-Dec-18,Account 4,Transaction 1,-92,Category 4,Random notes
+05-Aug-18,Account 4,Transaction 15,-272,Category 6,
+31-Jul-18,Account 1,Transaction 5,-338,Category 2,
+07-Sep-17,Account 2,Transaction 17,110,Category 5,Random notes
+09-Jan-18,Account 4,Transaction 9,-203,Category 1,Random notes
+17-Apr-18,Account 4,Transaction 13,379,Category 1,
+12-Aug-18,Account 1,Transaction 10,489,Category 10,Random notes
+10-Dec-18,Account 1,Transaction 1,-187,Category 2,
+25-Sep-18,Account 1,Transaction 20,-427,Category 9,
+27-Apr-17,Account 2,Transaction 6,491,Category 6,Random notes
+11-Oct-18,Account 2,Transaction 6,485,Category 9,
+05-Dec-18,Account 2,Transaction 8,-465,Category 6,
+01-Jul-18,Account 4,Transaction 19,416,Category 10,
+26-Aug-18,Account 4,Transaction 12,48,Category 2,Random notes
+21-Jul-18,Account 4,Transaction 20,217,Category 8,Random notes
+25-Oct-18,Account 3,Transaction 8,-459,Category 4,
+21-Mar-18,Account 1,Transaction 4,375,Category 2,
+11-Apr-18,Account 2,Transaction 20,195,Category 7,
+08-Jul-18,Account 4,Transaction 9,356,Category 9,Random notes
+26-Mar-18,Account 2,Transaction 15,-43,Category 10,Random notes
+20-May-18,Account 3,Transaction 4,6,Category 7,Random notes
+15-Jan-18,Account 1,Transaction 19,251,Category 9,Random notes
+16-Jul-18,Account 1,Transaction 14,404,Category 8,Random notes
+27-May-18,Account 4,Transaction 8,-24,Category 1,Random notes
+07-May-18,Account 2,Transaction 18,148,Category 9,Random notes
+09-Sep-18,Account 4,Transaction 5,-133,Category 6,Random notes
+15-Jul-18,Account 1,Transaction 3,-53,Category 10,
+21-Jun-18,Account 4,Transaction 3,97,Category 3,Random notes
+15-Mar-18,Account 3,Transaction 10,301,Category 6,
+19-Aug-18,Account 4,Transaction 3,-9,Category 7,
+19-Jan-18,Account 3,Transaction 19,173,Category 3,
+02-Mar-18,Account 1,Transaction 12,-235,Category 7,
+04-May-18,Account 3,Transaction 17,-331,Category 6,Random notes
+14-Sep-18,Account 4,Transaction 11,364,Category 2,
+25-May-18,Account 1,Transaction 10,-332,Category 1,
+05-Sep-17,Account 4,Transaction 4,-298,Category 8,Random notes
+02-Dec-18,Account 4,Transaction 2,150,Category 3,
+14-Jan-18,Account 3,Transaction 13,199,Category 5,
+04-Feb-18,Account 4,Transaction 20,-20,Category 4,
+04-Sep-18,Account 2,Transaction 13,418,Category 5,
+30-Apr-18,Account 1,Transaction 15,465,Category 4,
+22-Sep-18,Account 1,Transaction 5,-471,Category 4,
+13-Apr-18,Account 4,Transaction 6,4,Category 4,
+13-Mar-17,Account 2,Transaction 15,108,Category 2,
+12-Jun-18,Account 3,Transaction 4,162,Category 8,Random notes
+30-Jun-18,Account 4,Transaction 9,467,Category 9,
+02-Aug-18,Account 2,Transaction 15,22,Category 9,Random notes
+01-Dec-18,Account 2,Transaction 5,201,Category 10,
+01-Jul-18,Account 1,Transaction 19,449,Category 3,
+12-Nov-18,Account 2,Transaction 5,250,Category 9,Random notes
+30-Jan-18,Account 1,Transaction 16,122,Category 7,Random notes
+26-Dec-18,Account 2,Transaction 13,282,Category 3,Random notes
+12-Jul-17,Account 3,Transaction 2,-349,Category 7,
+27-May-18,Account 3,Transaction 15,-445,Category 6,
+23-Aug-18,Account 2,Transaction 11,-190,Category 1,Random notes
+07-Jul-18,Account 1,Transaction 6,47,Category 2,
+28-Jul-18,Account 2,Transaction 3,-350,Category 2,
+13-Mar-18,Account 2,Transaction 15,-42,Category 8,
+12-May-18,Account 1,Transaction 17,-167,Category 2,
+14-Jun-18,Account 3,Transaction 8,207,Category 4,
+16-Jan-18,Account 2,Transaction 10,-221,Category 4,
+08-Oct-18,Account 1,Transaction 19,-150,Category 10,
