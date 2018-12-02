@@ -1,9 +1,7 @@
-class XmlRead
-  @db
+require 'nokogiri'
 
+class XmlRead
   def process(file)
-    puts file
-    puts "hello"
-    @db = {reply: 'XML-OK'}
+    puts "Under construction"
   end
 end

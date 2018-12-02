@@ -1,26 +1,43 @@
 require_relative 'csv_read'
 require_relative 'xml_read'
 require_relative 'fill_db'
-
+require_relative 'gmap_geo'
+require_relative 'json_read'
 
 class Start
   # set the parameters
-  param = {read: 'csv', xmlFile: 'xml_file.xml', csvFile: 'csv_file.csv',mdb: 'mongodb://127.0.0.1:27017/', db: 'transactions'}
+  parameters = {fileName: 'file', tgtAddress: 'mongodb://127.0.0.1:27017/', tgtDb: 'transactions'}
 
-  # launch appropriate process
-  if param[:read] == 'csv'
-    file = param[:csvFile]
+  puts 'What is the source: CSV(csv), JSON(js), Google Geocoding (gg)?'
+  source = gets.chomp
+
+  # process the answer
+  case source
+
+  when 'csv'
+    file = "#{parameters[:fileName]}.csv"
     start = CsvRead.new
-    @dataArray = start.process(file)
+    @data = start.process(file)
+  when 'gg'
+    puts 'Enter address: '
+    addressRequested=gets()
+    start = GmapGeo.new
+    @data = start.process(addressRequested)
+  when 'js'
+    file = "#{parameters[:fileName]}.json"
+    start = JsonRead.new
+    @data = start.process('file',file)
+  # when 'xml' # TODO later?
+  #   file = "#{param[:fileName]}.xml"
+  #   start = XmlRead.new
+  #   @data = start.process(file)
   else
-    file = param[:xmlFile]
-    start = XmlRead.new
-    @dataArray = start.process(file)
+    puts "What was that?"
   end
 
-  address=param[:mdb]+param[:db]
+  puts @data
+  # address = param[:mdb] + param[:db] # TODO later
   # start = FillDb.new(address)
   # fill = start.process(@dataArray,param[:db])
-
 
 end

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Records>
+
+  <Record>
+    <Row
+      ><date>2/1/2018
+      </date><account>Account 4
+      </account><transaction>Transaction 10
+      </transaction><amount>206
+      </amount><category>Category 10</category>
+      
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>10/14/2018
+      </date><account>Account 4
+      </account><transaction>Transaction 2
+      </transaction><amount>95
+      </amount><category>Category 5</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>10/1/2018
+      </date><account>Account 3
+      </account><transaction>Transaction 13
+      </transaction><amount>-469
+      </amount><category>Category 7</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>10/15/2018
+      </date><account>Account 1
+      </account><transaction>Transaction 12
+      </transaction><amount>-299
+      </amount><category>Category 7</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>7/21/2018
+      </date><account>Account 3
+      </account><transaction>Transaction 1
+      </transaction><amount>-460
+      </amount><category>Category 9</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>1/24/2017
+      </date><account>Account 4
+      </account><transaction>Transaction 17
+      </transaction><amount>203
+      </amount><category>Category 7
+      </category><notes>Random notes</notes>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>5/26/2018
+      </date><account>Account 4
+      </account><transaction>Transaction 9
+      </transaction><amount>-74
+      </amount><category>Category 10</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>8/12/2018
+      </date><account>Account 3
+      </account><transaction>Transaction 3
+      </transaction><amount>-243
+      </amount><category>Category 7</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>2/3/2018
+      </date><account>Account 3
+      </account><transaction>Transaction 2
+      </transaction><amount>80
+      </amount><category>Category 5</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>9/11/2018
+      </date><account>Account 4
+      </account><transaction>Transaction 19
+      </transaction><amount>-130
+      </amount><category>Category 7</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>9/22/2018
+      </date><account>Account 1
+      </account><transaction>Transaction 15
+      </transaction><amount>60
+      </amount><category>Category 9
+      </category><notes>Random notes</notes>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>9/19/2018
+      </date><account>Account 1
+      </account><transaction>Transaction 18
+      </transaction><amount>-368
+      </amount><category>Category 2</category>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>4/2/2018
+      </date><account>Account 2
+      </account><transaction>Transaction 14
+      </transaction><amount>90
+      </amount><category>Category 5
+      </category><notes>Random notes</notes>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>11/30/2018
+      </date><account>Account 4
+      </account><transaction>Transaction 18
+      </transaction><amount>399
+      </amount><category>Category 10
+      </category><notes>Random notes</notes>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>1/20/2018
+      </date><account>Account 4
+      </account><transaction>Transaction 17
+      </transaction><amount>358
+      </amount><category>Category 8
+      </category><notes>Random notes</notes>
+  </Row></Record>
+  <Record>
+    <Row
+      ><date>5/27/2018
+      </date><account>Account 4
+      </account><transaction>Transaction 12
+      </transaction><amount>-178
+      </amount><category>Category 6</category>
+  </Row></Record>
+</Records>
