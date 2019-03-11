@@ -1,12 +1,7 @@
-# readFile app
+# readFile sample app
 
-Currently in development
+Used for development purposes
 
 ## What
 
-Small app to plug into bigger ones. Reads file with data and puts it into array and then, if needed, uploads to DB.
-
-## Why
-
-Studying Ruby needed to develop certain skills and add data to 
-play with.
+Small app to be plug into bigger ones. Reads file with data and puts it into array and then, if needed, uploads to DB.
